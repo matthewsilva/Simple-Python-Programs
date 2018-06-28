@@ -13,12 +13,6 @@ Installation:
 	sudo apt-get install python3
 	
 	
-	For Using Runp:
-	
-	sudo apt-get install python-pip
-	
-	pip install runp
-	
 Running Code:
 
 Any Python program WITH a main function can be run using the below commands
